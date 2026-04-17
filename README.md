@@ -1,4 +1,4 @@
-# Canadian Tire Corporation — Operations Analysis (2026)
+# Canadian Tire Corporation Operations Analysis (2026)
 
 An operations and performance analysis of Canadian Tire Corporation (TSX: CTC), one of Canada's largest and most recognized retail companies. This project examines publicly reported financial and operational data across all four quarters of 2024 to identify performance trends, segment strengths, and areas for strategic improvement.
 
@@ -12,7 +12,7 @@ The output is a fully structured Excel workbook with five sheets covering raw da
 
 ---
 
-## Company Background
+##Company Background
 
 Canadian Tire Corporation (TSX: CTC) was founded in 1922 and is one of Canada's most iconic retail brands. It operates through three main segments — Retail, Financial Services, and CT REIT — and runs banners including Canadian Tire Retail, Mark's, SportChek, and Gas+. As of year-end 2024, the company operated 502 stores across 23.1 million square feet of retail space nationwide.
 
